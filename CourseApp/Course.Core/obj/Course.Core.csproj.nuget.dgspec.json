@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Core/Course.Core.csproj": {}
+    "/Users/elmar/Desktop/CodeAcademy/API/CourseAPiFullCrud/CourseApp/Course.Core/Course.Core.csproj": {}
   },
   "projects": {
-    "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Core/Course.Core.csproj": {
+    "/Users/elmar/Desktop/CodeAcademy/API/CourseAPiFullCrud/CourseApp/Course.Core/Course.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Core/Course.Core.csproj",
+        "projectUniqueName": "/Users/elmar/Desktop/CodeAcademy/API/CourseAPiFullCrud/CourseApp/Course.Core/Course.Core.csproj",
         "projectName": "Course.Core",
-        "projectPath": "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Core/Course.Core.csproj",
+        "projectPath": "/Users/elmar/Desktop/CodeAcademy/API/CourseAPiFullCrud/CourseApp/Course.Core/Course.Core.csproj",
         "packagesPath": "/Users/elmar/.nuget/packages/",
-        "outputPath": "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Core/obj/",
+        "outputPath": "/Users/elmar/Desktop/CodeAcademy/API/CourseAPiFullCrud/CourseApp/Course.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elmar/.nuget/NuGet/NuGet.Config"

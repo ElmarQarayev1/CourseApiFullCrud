@@ -236,7 +236,6 @@ namespace Course.Ui.Controllers
             }
         }
 
-        [HttpPost]
         public async Task<IActionResult> Delete(int id)
         {
             var token = Request.Cookies["token"];
@@ -245,7 +244,6 @@ namespace Course.Ui.Controllers
                 return RedirectToAction("Login", "Account");
             }
             _client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
-
             try
             {
                 var response = await _client.DeleteAsync($"https://localhost:7064/api/students/{id}");

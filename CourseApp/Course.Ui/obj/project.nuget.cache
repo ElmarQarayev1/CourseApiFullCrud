@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XsH36nv+BtBndBsmzhZMl9j9qWM5i9nbst47aj/EBvQk4aYgsj71xGWtivc3tiG4hG1kSWj1LLwzckoVryV87A==",
+  "dgSpecHash": "GJZ9MvaZnd4CqDcv4IgB4eBy8Ih/BrDxwGfUB9f1ygbFHSPGZpd7iALOFTOQZBUvFt+3Fankvpav6syzxlehbg==",
   "success": true,
-  "projectFilePath": "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Ui/Course.Ui.csproj",
+  "projectFilePath": "/Users/elmar/Desktop/CodeAcademy/API/CourseAPiFullCrud/CourseApp/Course.Ui/Course.Ui.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

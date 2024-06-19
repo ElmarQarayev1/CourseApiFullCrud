@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oS8If4XBP9hSfPR4OXuZhgB1xFUT9vYksLV/ahBXON1n+KpFLiHhs/OB4NRo1CmEa3Af6IrMV8QSBav55IyMIg==",
+  "dgSpecHash": "sjJM9jEkgk696isui5NI71Leha/voe8iDU75BNyRTftZ/Z1YfG9doq5LQYv7rsPjvCyMQ5yF4GNYYXAzch5h9A==",
   "success": true,
-  "projectFilePath": "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Data/Course.Data.csproj",
+  "projectFilePath": "/Users/elmar/Desktop/CodeAcademy/API/CourseAPiFullCrud/CourseApp/Course.Data/Course.Data.csproj",
   "expectedPackageFiles": [
     "/Users/elmar/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/elmar/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",

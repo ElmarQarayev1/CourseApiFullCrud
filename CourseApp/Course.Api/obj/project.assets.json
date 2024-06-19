@@ -4591,11 +4591,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Api/Course.Api.csproj",
+      "projectUniqueName": "/Users/elmar/Desktop/CodeAcademy/API/CourseAPiFullCrud/CourseApp/Course.Api/Course.Api.csproj",
       "projectName": "Course.Api",
-      "projectPath": "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Api/Course.Api.csproj",
+      "projectPath": "/Users/elmar/Desktop/CodeAcademy/API/CourseAPiFullCrud/CourseApp/Course.Api/Course.Api.csproj",
       "packagesPath": "/Users/elmar/.nuget/packages/",
-      "outputPath": "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Api/obj/",
+      "outputPath": "/Users/elmar/Desktop/CodeAcademy/API/CourseAPiFullCrud/CourseApp/Course.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/elmar/.nuget/NuGet/NuGet.Config"
@@ -4611,8 +4611,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Service/Course.Service.csproj": {
-              "projectPath": "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Service/Course.Service.csproj"
+            "/Users/elmar/Desktop/CodeAcademy/API/CourseAPiFullCrud/CourseApp/Course.Service/Course.Service.csproj": {
+              "projectPath": "/Users/elmar/Desktop/CodeAcademy/API/CourseAPiFullCrud/CourseApp/Course.Service/Course.Service.csproj"
             }
           }
         }

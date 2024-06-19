@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N0UIX6r5hctvktKujOnR09+O6PgQe8YX2k2Xq2e9xGMFEjQ3oJK0zLW+YT0GpG4oOsEnxFpN+Sg8rYERPI07rg==",
+  "dgSpecHash": "u03Y3w5g3uoFkBEYNQaFeT/y8vK7ANEWNzM7gp0TFs/9zFcmwBsE+NIhRF2aq1QANvZYc5aUM1EDn248IyFbGQ==",
   "success": true,
-  "projectFilePath": "/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Core/Course.Core.csproj",
+  "projectFilePath": "/Users/elmar/Desktop/CodeAcademy/API/CourseAPiFullCrud/CourseApp/Course.Core/Course.Core.csproj",
   "expectedPackageFiles": [
     "/Users/elmar/.nuget/packages/microsoft.aspnetcore.cryptography.internal/7.0.16/microsoft.aspnetcore.cryptography.internal.7.0.16.nupkg.sha512",
     "/Users/elmar/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/7.0.16/microsoft.aspnetcore.cryptography.keyderivation.7.0.16.nupkg.sha512",

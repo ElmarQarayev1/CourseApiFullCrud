@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Course.Data
-build_property.ProjectDir = /Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/CourseApp/Course.Data/
+build_property.ProjectDir = /Users/elmar/Desktop/CodeAcademy/API/CourseAPiFullCrud/CourseApp/Course.Data/
