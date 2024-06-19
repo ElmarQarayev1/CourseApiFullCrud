@@ -1,0 +1,12 @@
+/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/JobApplication/JobApplicationLibrary/bin/Debug/net7.0/JobApplicationLibrary.deps.json
+/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/JobApplication/JobApplicationLibrary/bin/Debug/net7.0/JobApplicationLibrary.dll
+/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/JobApplication/JobApplicationLibrary/bin/Debug/net7.0/JobApplicationLibrary.pdb
+/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/JobApplication/JobApplicationLibrary/obj/Debug/net7.0/JobApplicationLibrary.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/JobApplication/JobApplicationLibrary/obj/Debug/net7.0/JobApplicationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/JobApplication/JobApplicationLibrary/obj/Debug/net7.0/JobApplicationLibrary.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/JobApplication/JobApplicationLibrary/obj/Debug/net7.0/JobApplicationLibrary.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/JobApplication/JobApplicationLibrary/obj/Debug/net7.0/JobApplicationLibrary.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/JobApplication/JobApplicationLibrary/obj/Debug/net7.0/JobApplicationLibrary.dll
+/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/JobApplication/JobApplicationLibrary/obj/Debug/net7.0/refint/JobApplicationLibrary.dll
+/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/JobApplication/JobApplicationLibrary/obj/Debug/net7.0/JobApplicationLibrary.pdb
+/Users/elmar/Desktop/CodeAcademy/API/CourseApiJWT/JobApplication/JobApplicationLibrary/obj/Debug/net7.0/ref/JobApplicationLibrary.dll

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{B4571CC9-5EAB-48CC-98E3-15A1EAA2D872}|Default">
+  <MonoDevelop.Ide.ItemProperties.JobAppliacationLibrary.UnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="JobApplicationLibrary/JobApplication.cs">
+    <Files>
+      <File FileName="JobApplicationLibrary/Application.cs" Line="10" Column="1" />
+      <File FileName="JobApplicationLibrary/JobApplication.cs" Line="16" Column="1" />
+      <File FileName="JobApplicationLibrary/ApplicationEvaluator.cs" Line="13" Column="4" />
+      <File FileName="JobAppliacationLibrary.UnitTest/Usings.cs" Line="1" Column="1" />
+      <File FileName="JobAppliacationLibrary.UnitTest/ApplicationEvaluateUnitTest.cs" Line="24" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JobApplication" expanded="True">
+            <Node name="JobApplicationLibrary">
+              <Node name="JobApplication.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="JobApplication" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
